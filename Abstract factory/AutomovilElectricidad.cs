@@ -9,5 +9,8 @@ public class AutomovilElectricidad : Automovil
         Console.WriteLine(
             "Automóvil eléctrico de modelo: " + modelo + ", de color: " + color + ", de potencia: " + potencia + ", de espacio: " + espacio
         );
+         Console.WriteLine(
+            "Automóvil eléctrico de modelo: " + modelo + ", de color: " + color + ", de potencia: " + potencia + ", de espacio: " + espacio
+        );
     }
 }
